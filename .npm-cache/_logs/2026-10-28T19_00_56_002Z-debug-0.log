@@ -1,0 +1,132 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@11.19.0
+2 info using node@v24.21.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\Cloud Tech\Documents\Codex\2026-10-28\lv\outputs\moataz-ashraf-portfolio\.npmrc
+5 silly config load:file:C:\Users\Cloud Tech\.npmrc
+6 silly config load:file:C:\Users\Cloud Tech\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm install lenis
+8 verbose argv "install" "lenis" "--cache" ".npm-cache"
+9 verbose logfile logs-max:10 dir:C:\Users\Cloud Tech\Documents\Codex\2026-10-28\lv\outputs\moataz-ashraf-portfolio\.npm-cache\_logs\2026-10-28T19_00_56_002Z-
+10 verbose logfile C:\Users\Cloud Tech\Documents\Codex\2026-10-28\lv\outputs\moataz-ashraf-portfolio\.npm-cache\_logs\2026-10-28T19_00_56_002Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:2348810240 maxSize:587202560 maxEntrySize:293601280
+13 silly idealTree buildDeps
+14 silly fetch manifest lenis@*
+15 silly packumentCache full:https://registry.npmjs.org/lenis cache-miss
+16 http fetch GET 200 https://registry.npmjs.org/lenis 691ms (cache miss)
+17 silly packumentCache full:https://registry.npmjs.org/lenis set size:undefined disposed:false
+18 silly fetch manifest @nuxt/kit@>=3.0.0
+19 silly packumentCache full:https://registry.npmjs.org/@nuxt%2fkit cache-miss
+20 http fetch GET 200 https://registry.npmjs.org/@nuxt%2fkit 503ms (cache miss)
+21 silly packumentCache full:https://registry.npmjs.org/@nuxt%2fkit set size:undefined disposed:false
+22 silly fetch manifest @nuxt/schema@^3.0.0 || ^4.0.0 || ^5.0.0-0
+23 silly packumentCache full:https://registry.npmjs.org/@nuxt%2fschema cache-miss
+24 http fetch GET 200 https://registry.npmjs.org/@nuxt%2fschema 382ms (cache miss)
+25 silly packumentCache full:https://registry.npmjs.org/@nuxt%2fschema set size:undefined disposed:false
+26 silly fetch manifest confbox@>=0.1.0
+27 silly packumentCache full:https://registry.npmjs.org/confbox cache-miss
+28 http fetch GET 200 https://registry.npmjs.org/confbox 281ms (cache miss)
+29 silly packumentCache full:https://registry.npmjs.org/confbox set size:undefined disposed:false
+30 silly fetch manifest dotenv@*
+31 silly packumentCache full:https://registry.npmjs.org/dotenv cache-miss
+32 http fetch GET 200 https://registry.npmjs.org/dotenv 168ms (cache miss)
+33 silly packumentCache full:https://registry.npmjs.org/dotenv set size:undefined disposed:false
+34 silly fetch manifest giget@>=3.1.0
+35 silly packumentCache full:https://registry.npmjs.org/giget cache-miss
+36 http fetch GET 200 https://registry.npmjs.org/giget 249ms (cache miss)
+37 silly packumentCache full:https://registry.npmjs.org/giget set size:undefined disposed:false
+38 silly fetch manifest jiti@^2.0.0
+39 silly packumentCache full:https://registry.npmjs.org/jiti cache-miss
+40 http fetch GET 200 https://registry.npmjs.org/jiti 179ms (cache miss)
+41 silly packumentCache full:https://registry.npmjs.org/jiti set size:undefined disposed:false
+42 silly fetch manifest mlly@^1.2.0
+43 silly packumentCache full:https://registry.npmjs.org/mlly cache-miss
+44 http fetch GET 200 https://registry.npmjs.org/mlly 158ms (cache miss)
+45 silly packumentCache full:https://registry.npmjs.org/mlly set size:undefined disposed:false
+46 silly fetch manifest oxc-parser@>=0.56.0
+47 silly packumentCache full:https://registry.npmjs.org/oxc-parser cache-miss
+48 http fetch GET 200 https://registry.npmjs.org/oxc-parser 296ms (cache miss)
+49 silly packumentCache full:https://registry.npmjs.org/oxc-parser set size:undefined disposed:false
+50 silly fetch manifest rolldown@>=1.0.0
+51 silly packumentCache full:https://registry.npmjs.org/rolldown cache-miss
+52 http fetch GET 200 https://registry.npmjs.org/rolldown 462ms (cache miss)
+53 silly packumentCache full:https://registry.npmjs.org/rolldown set size:undefined disposed:false
+54 silly fetch manifest react@^19.3.0
+55 silly packumentCache full:https://registry.npmjs.org/react cache-miss
+56 http fetch GET 200 https://registry.npmjs.org/react 174ms (cache revalidated)
+57 silly packumentCache full:https://registry.npmjs.org/react set size:7093025 disposed:false
+58 silly fetch manifest vue@>=3.0.0
+59 silly packumentCache full:https://registry.npmjs.org/vue cache-miss
+60 http fetch GET 200 https://registry.npmjs.org/vue 352ms (cache miss)
+61 silly packumentCache full:https://registry.npmjs.org/vue set size:undefined disposed:false
+62 silly fetch manifest typescript@*
+63 silly packumentCache full:https://registry.npmjs.org/typescript cache-miss
+64 http fetch GET 200 https://registry.npmjs.org/typescript 1109ms (cache miss)
+65 silly packumentCache full:https://registry.npmjs.org/typescript set size:undefined disposed:false
+66 silly placeDep ROOT lenis@1.3.27 OK for: moataz-ashraf-portfolio@1.0.0 want: *
+67 silly reify moves {}
+68 silly audit bulk request {
+68 silly audit   '@oxc-project/types': [ '0.155.0' ],
+68 silly audit   '@rolldown/binding-android-arm-eabi': [ '1.2.15' ],
+68 silly audit   '@rolldown/binding-android-arm64': [ '1.2.15' ],
+68 silly audit   '@rolldown/binding-darwin-arm64': [ '1.2.15' ],
+68 silly audit   '@rolldown/binding-darwin-x64': [ '1.2.15' ],
+68 silly audit   '@rolldown/binding-freebsd-x64': [ '1.2.15' ],
+68 silly audit   '@rolldown/binding-linux-arm-gnueabihf': [ '1.2.15' ],
+68 silly audit   '@rolldown/binding-linux-arm64-gnu': [ '1.2.15' ],
+68 silly audit   '@rolldown/binding-linux-arm64-musl': [ '1.2.15' ],
+68 silly audit   '@rolldown/binding-linux-ppc64-gnu': [ '1.2.15' ],
+68 silly audit   '@rolldown/binding-linux-s390x-gnu': [ '1.2.15' ],
+68 silly audit   '@rolldown/binding-linux-x64-gnu': [ '1.2.15' ],
+68 silly audit   '@rolldown/binding-linux-x64-musl': [ '1.2.15' ],
+68 silly audit   '@rolldown/binding-openharmony-arm64': [ '1.2.15' ],
+68 silly audit   '@rolldown/binding-win32-arm64-msvc': [ '1.2.15' ],
+68 silly audit   '@rolldown/binding-win32-x64-msvc': [ '1.2.15' ],
+68 silly audit   '@rolldown/pluginutils': [ '1.0.1' ],
+68 silly audit   '@vitejs/plugin-react': [ '6.1.2' ],
+68 silly audit   aos: [ '2.3.4' ],
+68 silly audit   'classlist-polyfill': [ '1.2.0' ],
+68 silly audit   'detect-libc': [ '2.1.2' ],
+68 silly audit   fdir: [ '6.5.0' ],
+68 silly audit   fsevents: [ '2.3.3' ],
+68 silly audit   lightningcss: [ '1.33.0' ],
+68 silly audit   'lightningcss-android-arm64': [ '1.33.0' ],
+68 silly audit   'lightningcss-darwin-arm64': [ '1.33.0' ],
+68 silly audit   'lightningcss-darwin-x64': [ '1.33.0' ],
+68 silly audit   'lightningcss-freebsd-x64': [ '1.33.0' ],
+68 silly audit   'lightningcss-linux-arm-gnueabihf': [ '1.33.0' ],
+68 silly audit   'lightningcss-linux-arm64-gnu': [ '1.33.0' ],
+68 silly audit   'lightningcss-linux-arm64-musl': [ '1.33.0' ],
+68 silly audit   'lightningcss-linux-x64-gnu': [ '1.33.0' ],
+68 silly audit   'lightningcss-linux-x64-musl': [ '1.33.0' ],
+68 silly audit   'lightningcss-win32-arm64-msvc': [ '1.33.0' ],
+68 silly audit   'lightningcss-win32-x64-msvc': [ '1.33.0' ],
+68 silly audit   'lodash.debounce': [ '4.0.8' ],
+68 silly audit   'lodash.throttle': [ '4.1.1' ],
+68 silly audit   nanoid: [ '3.3.20' ],
+68 silly audit   picocolors: [ '1.1.1' ],
+68 silly audit   picomatch: [ '4.0.7' ],
+68 silly audit   postcss: [ '8.5.32' ],
+68 silly audit   react: [ '19.3.1' ],
+68 silly audit   'react-dom': [ '19.3.1' ],
+68 silly audit   'react-icons': [ '5.7.0' ],
+68 silly audit   rolldown: [ '1.2.15' ],
+68 silly audit   scheduler: [ '0.28.0' ],
+68 silly audit   'source-map-js': [ '1.2.2' ],
+68 silly audit   tinyglobby: [ '0.2.17' ],
+68 silly audit   vite: [ '8.3.5' ],
+68 silly audit   lenis: [ '1.3.27' ]
+68 silly audit }
+69 http cache lenis@https://registry.npmjs.org/lenis/-/lenis-1.3.27.tgz 0ms (cache hit)
+70 silly tarball no local data for lenis@https://registry.npmjs.org/lenis/-/lenis-1.3.27.tgz. Extracting by manifest.
+71 http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 298ms
+72 silly audit report {}
+73 http fetch GET 200 https://registry.npmjs.org/lenis/-/lenis-1.3.27.tgz 2366ms (cache miss)
+74 silly ADD node_modules/lenis
+75 verbose cwd C:\Users\Cloud Tech\Documents\Codex\2026-10-28\lv\outputs\moataz-ashraf-portfolio
+76 verbose os Windows_NT 10.0.26200
+77 verbose node v24.21.0
+78 verbose npm  v11.19.0
+79 verbose exit 0
+80 info ok
