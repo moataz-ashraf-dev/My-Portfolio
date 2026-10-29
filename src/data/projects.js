@@ -36,7 +36,7 @@ const projects = [
     description: 'A promotional hosting page featuring a savings offer, a clear call to action, and a comparison section for hosting plans.',
     descriptionAr: 'واجهة ترويجية لخدمات استضافة المواقع، تعرض عرضًا ترويجيًا وزرًا للبدء وقسمًا لمقارنة خطط الاستضافة.',
     stack: ['React', 'JavaScript', 'CSS'],
-    url: 'https://task3-in-react.vercel.app/',
+    url: 'https://tsck1-in-react.vercel.app/',
     image: '/assets/projects/web-hosting-landing.png',
     label: 'View project',
     labelAr: 'شاهد المشروع',
